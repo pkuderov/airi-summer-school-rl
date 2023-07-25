@@ -1,4 +1,5 @@
 # ==== Proj-specific ====
+.DS_Store
 video
 render
 # =======================
